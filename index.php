@@ -1,10 +1,17 @@
+<html>
 <?php
 include('header.php');
 ?>
 
-  <div>
-  <p>Stuff</p>
-  </div>
+  <head>
+  </head>
+  <body>
+    <div>
+    <p>Stuff</p>
+    </div>
+  </body>
 <?php
 include('footer.php');
 ?>
+
+</html>
