@@ -92,7 +92,7 @@
 			<a href="#">Our Exec Board</a>
 			<a href="#">Social Media</a>
 			<a href="#">About</a>
-			<a href="history.html">History</a>
+			<a href="#">History</a>
 			<a href="#">Contact Us</a>
 		</div>
 		
