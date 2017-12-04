@@ -1,6 +1,6 @@
 <html>
 <?php 
-include ('header.php'); 
+include ('header.html'); 
 ?>
 
   <head>
