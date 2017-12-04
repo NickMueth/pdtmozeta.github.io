@@ -1,6 +1,6 @@
 <html>
-<?php
-include('header.php');
+<?php 
+include 'header.php'; 
 ?>
 
   <head>
@@ -10,8 +10,8 @@ include('header.php');
     <p>Stuff</p>
     </div>
   </body>
-<?php
-include('footer.php');
+<?php 
+include 'footer.php'; 
 ?>
 
 </html>
